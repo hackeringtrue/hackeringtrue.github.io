@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hacklu 2015 stackstuff
-date: 2025-07-08 13:23:09 +0300
+date: 2025-07-08 17:23:09 +0300
 categories: Nightmare-series partial-overwrite
 tags: nightmare buffer-overflow vsyscall x64 partial-overwrite brute-force
 ---
