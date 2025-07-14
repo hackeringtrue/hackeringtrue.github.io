@@ -255,7 +255,8 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-
+## Flag
+> Flag: ``` pwn.college{H1EnE_SALGQDMhB1PSrD81fMDL5.dZTcSSXsM0TNxgzW}```
 
 
 
