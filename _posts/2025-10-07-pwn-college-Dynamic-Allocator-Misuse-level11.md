@@ -2,7 +2,7 @@
 layout: post
 title: (Dynamic Allocator Misuse) level 11
 categories: pwn.college Dynamic-Allocator-Misuse
-date: 2025-10-07 13:00:21 +0300
+date: 2025-10-07 08:00:21 +0300
 tags: pwn.college PIE ASLR heap house-of-force tecache metadata
 ---
 
@@ -48,6 +48,8 @@ Example conceptual payload (adjust offsets and widths for target):
 [ saved rbp (if needed) ]
 [ ret addr -> p64(win_addr) ]
 ```
+<img src="/images/stuff/Shot-2025-10-07-145500.png" style="border-radius: 14px;">
+
 
 ## Exploit
 
