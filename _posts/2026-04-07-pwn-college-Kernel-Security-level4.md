@@ -15,7 +15,8 @@ tags: pwn.college Device-Driver-CHAR simple-driver kernel-privilage-ring0
 
 ## Explit
 
-I think I should try to get ```Hacker``` rank on HTB U_U.
+~~I think I should try to get ```Hacker``` rank on HTB U_U.~~
+When I finish this module I'll try why not O_O.
 
 ```c
 #include <fcntl.h>
