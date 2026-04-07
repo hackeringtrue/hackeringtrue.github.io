@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Kernel Security) level 01
+title: (Kernel Security) level 1
 categories: pwn.college Kernel-Security
 date: 2026-03-26 07:02:17 +0300
 tags: pwn.college Device-Driver-CHAR simple-driver
