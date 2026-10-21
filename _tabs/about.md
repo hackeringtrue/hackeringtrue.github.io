@@ -10,3 +10,6 @@ order: 4
  PWNER | Malware Analysis
 - **TEMA:** [K0shk4](https://k0shk4team.github.io/)
 - **E-Mail:** hackeringtrue.dev@gmail.com
+
+## Disclosure
+- [Responsible disclosure — EscapeSafeBrowser exam mode](/disclosure/)
