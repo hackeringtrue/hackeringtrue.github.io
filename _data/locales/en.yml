@@ -16,6 +16,7 @@ tabs:
   archives: Archives
   about: About
   disclosure: Disclosure
+  pending: Pending
 
 # the text displayed in the search bar & search results
 search:
